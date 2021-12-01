@@ -13,8 +13,8 @@ content has-text-centered
 content has-text-right
 control
 field
-has-text-weight-bold
-hero is-dark is-fullheight
+has-text-weight-bold 
+hero is-dark is-fullheight 
 hero-body
 input
 is-active
@@ -25,14 +25,14 @@ section
 section has-background-white
 select
 subtitle
-subtitle has-text-grey
-subtitle has-text-grey has-text-weight-bold
+subtitle has-text-grey  
+subtitle has-text-grey has-text-weight-bold 
 subtitle has-text-grey has-text-weight-light
 subtitle has-text-grey has-text-weight-normal
 subtitle has-text-grey is-italic
 tabs is-medium is-centered
 title
 title has-text-info is-family-secondary
-title has-text-weight-bold
+title has-text-weight-bold 
 title has-text-weight-light
 title has-text-weight-normal
